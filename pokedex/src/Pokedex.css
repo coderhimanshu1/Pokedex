@@ -1,0 +1,15 @@
+.Pokedex {
+  margin: 2%;
+  padding: 2%;
+}
+
+.Pokedex-title {
+  text-align: center;
+  background-color: antiquewhite;
+  padding: 3%;
+  border-radius: 1%;
+}
+
+.Pokedex {
+  border: 2px solid black;
+}

@@ -1,4 +1,5 @@
 import Pokecard from "./Pokecard";
+import "./Pokedex.css";
 
 const Pokedex = (props) => {
   return (
@@ -15,7 +16,6 @@ const Pokedex = (props) => {
           />
         ))}
       </div>
-      <h4>Total experience: {props.exp}</h4>
     </div>
   );
 };

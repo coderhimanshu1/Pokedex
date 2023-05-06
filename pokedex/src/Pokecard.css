@@ -1,0 +1,15 @@
+.Pokecard {
+  display: inline-flex;
+  flex-direction: column;
+  background-color: rgba(247, 198, 126, 0.595);
+  align-items: center;
+  padding: 3%;
+  margin: 2%;
+  border-radius: 10%;
+  border: 2px solid teal;
+  box-shadow: 5px -5px teal;
+}
+
+.Pokecard img {
+  width: 120px;
+}
