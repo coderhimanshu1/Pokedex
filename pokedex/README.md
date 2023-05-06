@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Pokedex
+
+![Screenshot 2023-05-05 at 5 31 12 PM](https://user-images.githubusercontent.com/87880250/236588553-43985620-a868-4233-b562-a067c47c35ef.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
